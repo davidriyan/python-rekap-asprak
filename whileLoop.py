@@ -1,4 +1,4 @@
-#ini contoh while loop
+#ini contoh whileloop yaa
 i = 1
 while i < 6:
     print(i)
