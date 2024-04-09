@@ -1,6 +1,5 @@
 #dictionary
 #menyimpan pasangan kunci - nilai
-#kata ka david tuple merupakan pasangan key and value
 
 kamus = {
     "nama" : "luffy",
