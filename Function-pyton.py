@@ -16,9 +16,9 @@ NumberCheckingFunc()
 #here the function is doesnt need any argument because we are not setting the parameter in the function
 #example for function with paramater and argument 
 
-def NonNumberChecker(a):
+def ParameterFunc(a):
   print(a)
 
-NonNumberCheker(10)
+ParameterFunc(10)
 
 #if there is a paramater then an argument is needed, and a parameter is only for one argument
